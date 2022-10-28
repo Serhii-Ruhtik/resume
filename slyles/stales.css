@@ -5,18 +5,23 @@ body {
 
 /* main styles */
 .main {
-  display: flex;
-  flex-direction: row-reverse;
-
   width: 1200px;
   margin: 0 auto;
 }
 
 .main-content {
+  display: flex;
+  flex-direction: row-reverse;
+
   background-color: #fff;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
   padding: 105px 90px;
 }
+
+.description {
+  margin-left: auto;
+}
+
 .about-positson {
   font-style: normal;
   font-weight: 700;
