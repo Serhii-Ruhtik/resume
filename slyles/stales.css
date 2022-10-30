@@ -19,7 +19,7 @@ body {
 }
 
 .description {
-    margin-left: auto;
+    margin-left: 50px;
 }
 
 .about-positson {
@@ -115,7 +115,6 @@ body {
     background: #7c507cdc;
     padding-top: 40px;
     width: 370px;
-    margin-right: 50px;
 }
 
 .foto {
