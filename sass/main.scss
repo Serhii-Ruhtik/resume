@@ -186,5 +186,7 @@ body {
     color: #ffffff;
 }
 .hyphenation{
-    word-wrap: break-word;
+    overflow: hidden;
+    // width: avto;
+    // word-wrap: break-word;
 }

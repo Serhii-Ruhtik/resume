@@ -200,5 +200,5 @@ body {
 }
 
 .hyphenation {
-  word-wrap: break-word;
+  overflow: hidden;
 }/*# sourceMappingURL=main.css.map */

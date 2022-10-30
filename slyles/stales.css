@@ -173,3 +173,7 @@ body {
 .skills-color {
     color: #ffffff;
 }
+.hyphenation{
+    /* overflow: hidden; */
+    word-wrap: break-word;
+}
