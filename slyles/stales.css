@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #f5f7fa;
+  /* background-color: #f5f7fa; */
 }
 
 /* main styles */
@@ -14,7 +14,7 @@ body {
   flex-direction: row-reverse;
 
   background-color: #fff;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3); */
   padding: 105px 90px;
 }
 
