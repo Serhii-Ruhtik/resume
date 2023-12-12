@@ -130,7 +130,7 @@ body {
 }
 
 .contacts {
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .sidebar-title {
@@ -158,7 +158,20 @@ body {
   color: #ffffff;
 }
 
+.link-none {
+  text-decoration: none;
+}
+
 .tech-skills-list {
+  width: 127.54px;
+  left: 83.16px;
+  top: 615px;
+  color: #ffffff;
+  padding: 0;
+  margin-left: 20px;
+}
+
+.tech-languages {
   width: 127.54px;
   height: 203px;
   left: 83.16px;
@@ -172,6 +185,10 @@ body {
 }
 
 .skills-color {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
   color: #ffffff;
 }
 .hyphenation {
