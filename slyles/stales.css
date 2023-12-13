@@ -53,10 +53,14 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
+  text-align: justify;
   line-height: 24px;
   color: #595959;
   width: 400px;
   margin-bottom: 20px;
+}
+.description-height {
+  width: 440px;
 }
 
 .work-work {
