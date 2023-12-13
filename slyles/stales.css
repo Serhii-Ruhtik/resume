@@ -2,7 +2,16 @@ body {
   font-family: 'Montserrat', sans-serif;
   /* background-color: #f5f7fa; */
 }
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
 /* main styles */
 .main {
   width: 1200px;
@@ -69,7 +78,8 @@ body {
 }
 
 .work-position-color {
-  color: #d3571d;
+  font-size: 14px;
+  color: #000000;
 }
 
 .company-year {
@@ -115,11 +125,16 @@ body {
 .sidebar {
   background: #7c507cdc;
   padding-top: 40px;
-  width: 370px;
+  width: 250px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .foto {
-  width: 370px;
+  width: 200px;
+  height: 230px;
+  margin-left: 25px;
+  /* margin-right: auto; */
   margin-bottom: 50px;
 }
 
@@ -162,8 +177,12 @@ body {
   text-decoration: none;
 }
 
+.list-none {
+  list-style: none;
+}
+
 .tech-skills-list {
-  width: 127.54px;
+  /* width: 127.54px; */
   left: 83.16px;
   top: 615px;
   color: #ffffff;
@@ -172,7 +191,7 @@ body {
 }
 
 .tech-languages {
-  width: 127.54px;
+  /* width: 127.54px; */
   height: 203px;
   left: 83.16px;
   top: 615px;
